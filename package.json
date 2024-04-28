@@ -1,0 +1,35 @@
+{
+  "name": "opencv-wasm-ts",
+  "version": "4.9.0",
+  "description": "OpenCV 4.9.0 to JavaScript + WebAssembly for node.js environment",
+  "main": "cv.js",
+  "files": [
+    "/cv.js",
+    "/loader.js",
+    "/index.d.ts",
+    "/opencv_wasm.js",
+    "/opencv.d.ts",
+    "/opencv_js.js",
+    "/types"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iishiishii/opencv.git"
+  },
+  "author": "Thuy Dao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iishiishii/opencv/issues"
+  },
+  "homepage": "https://github.com/iishiishii/opencv#readme",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  },
+  "types": "./index.d.ts",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "opencv"
+  ]
+}
