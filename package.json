@@ -1,5 +1,5 @@
 {
-  "name": "@iishiishii/opencv-wasm-ts",
+  "name": "opencv-wasm-ts",
   "version": "4.9.0",
   "description": "OpenCV 4.9.0 to JavaScript + WebAssembly for node.js environment",
   "main": "cv.js",
