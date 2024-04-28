@@ -5,9 +5,9 @@
   "main": "cv.js",
   "files": [
     "/cv.js",
-    "/loader.js",
     "/index.d.ts",
     "/opencv_wasm.js",
+    "/opencv_js.wasm",
     "/opencv.d.ts",
     "/opencv_js.js",
     "/types"
