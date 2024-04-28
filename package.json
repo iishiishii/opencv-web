@@ -1,7 +1,7 @@
 {
-  "name": "opencv-wasm-ts",
+  "name": "opencv-web",
   "version": "4.9.0",
-  "description": "OpenCV 4.9.0 to JavaScript + WebAssembly for node.js environment",
+  "description": "OpenCV 4.9.0 to JavaScript + WebAssembly for web environment",
   "main": "cv.js",
   "files": [
     "/cv.js",
